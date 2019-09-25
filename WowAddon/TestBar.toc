@@ -1,0 +1,7 @@
+## Interface: 33200
+## Title: TestBar
+## Version: 0.1
+## DefaultState: Enabled
+## LoadOnDemand: 0
+TestBar.lua
+TestBarForm.xml

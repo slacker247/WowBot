@@ -1,0 +1,7 @@
+## Interface: 32000
+## Title: DataBar
+## Version: 0.5
+## DefaultState: Enabled
+## LoadOnDemand: 0
+DataBar.lua
+DataBarForm.xml

@@ -1,0 +1,1 @@
+copy /y DataBar*.* "C:\Users\Public\Games\World of Warcraft\Interface\Addons\DataBar\"
